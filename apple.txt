@@ -1,2 +1,6 @@
 green,red,yellow
+<<<<<<< HEAD
 purple
+=======
+red
+>>>>>>> feature
